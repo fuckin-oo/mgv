@@ -1,0 +1,13 @@
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\bin\Debug\mgv.exe.config
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\bin\Debug\mgv.exe
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\bin\Debug\mgv.pdb
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\mgv.csprojResolveAssemblyReference.cache
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\mgv.multiGraphicViewer.resources
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\mgv.Properties.Resources.resources
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\mgv.csproj.GenerateResource.Cache
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\mgv.exe
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\mgv.pdb
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\bin\Debug\ja-JP\mgv.resources.dll
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\mgv.multiGraphicViewer.ja-JP.resources
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\ja-JP\mgv.resources.dll
+C:\Users\usr\Desktop\git\mgv\mgv\mgv\mgv\obj\Debug\mgv.form.graphicViewer.resources
